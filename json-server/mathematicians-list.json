@@ -1,0 +1,802 @@
+[
+  {
+    "id": "galileo-galilei",
+    "name": "Galileo Galilei",
+    "lifespan": "1564-1642",
+    "category": "Mathematician",
+    "knownFor": "Italian polymath (1564-1642)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Galileo.arp.300pix.jpg"
+  },
+  {
+    "id": "philipp-ludwig-von-seidel",
+    "name": "Philipp Ludwig von Seidel",
+    "lifespan": "1821-1896",
+    "category": "Mathematician",
+    "knownFor": "German mathematician, optician and astronomer (1821-1896)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Philipp%20Ludwig%20von%20Seidel.jpg"
+  },
+  {
+    "id": "nicolaus-copernicus",
+    "name": "Nicolaus Copernicus",
+    "lifespan": "1473-1543",
+    "category": "Mathematician",
+    "knownFor": "Polish mathematician and astronomer (1473-1543)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Nikolaus%20Kopernikus%20MOT.jpg"
+  },
+  {
+    "id": "andr-marie-amp-re",
+    "name": "André-Marie Ampère",
+    "lifespan": "1775-1836",
+    "category": "Mathematician",
+    "knownFor": "French physicist and mathematician (1775–1836)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ampere%20portrait%20at%20the%20Musee%20Poleymieux.jpg"
+  },
+  {
+    "id": "leonardo-da-vinci",
+    "name": "Leonardo da Vinci",
+    "lifespan": "1452-1519",
+    "category": "Mathematician",
+    "knownFor": "Italian Renaissance polymath (1452−1519)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Melzi%20-%20Portrait%20of%20Leonardo.png"
+  },
+  {
+    "id": "isaac-newton",
+    "name": "Isaac Newton",
+    "lifespan": "1643-1727",
+    "category": "Mathematician",
+    "knownFor": "English mathematician and physicist (1642-1727)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/GodfreyKneller-IsaacNewton-1689.jpg"
+  },
+  {
+    "id": "albert-einstein",
+    "name": "Albert Einstein",
+    "lifespan": "1879-1955",
+    "category": "Mathematician",
+    "knownFor": "German-born theoretical physicist (1879–1955)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20Head%20cleaned.jpg"
+  },
+  {
+    "id": "blaise-pascal",
+    "name": "Blaise Pascal",
+    "lifespan": "1623-1662",
+    "category": "Mathematician",
+    "knownFor": "French mathematician, physicist, inventor, writer, and Christian philosopher (1623-1662)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Blaise%20Pascal%20Versailles.JPG"
+  },
+  {
+    "id": "georg-simon-ohm",
+    "name": "Georg Simon Ohm",
+    "lifespan": "1789-1854",
+    "category": "Mathematician",
+    "knownFor": "German physicist and mathematician",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Georg%20Simon%20Ohm%20%281789-1854%29.jpg"
+  },
+  {
+    "id": "eugenio-calabi",
+    "name": "Eugenio Calabi",
+    "lifespan": "1923-2023",
+    "category": "Mathematician",
+    "knownFor": "Italian American mathematician (1923–2023)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Eugenio%20Calabi.jpeg"
+  },
+  {
+    "id": "albrecht-d-rer",
+    "name": "Albrecht Dürer",
+    "lifespan": "1471-1528",
+    "category": "Mathematician",
+    "knownFor": "German painter, printmaker, mathematician, and theorist (1471-1528)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BCrer%20Alte%20Pinakothek.jpg"
+  },
+  {
+    "id": "piero-della-francesca",
+    "name": "Piero della Francesca",
+    "lifespan": "1415-1492",
+    "category": "Mathematician",
+    "knownFor": "Italian painter and mathematician (c. 1416–1492)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Resurrection%20detail.JPG"
+  },
+  {
+    "id": "gerardus-mercator",
+    "name": "Gerardus Mercator",
+    "lifespan": "1512-1594",
+    "category": "Mathematician",
+    "knownFor": "Flemish geographer, cosmographer and cartographer (1512–1594)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Mercator%20%28Cremer%29.%20Line%20engraving%20by%20N.%20de%20Larmessin%2C%20Wellcome%20V0003979.jpg"
+  },
+  {
+    "id": "carl-friedrich-gauss",
+    "name": "Carl Friedrich Gauss",
+    "lifespan": "1777-1855",
+    "category": "Mathematician",
+    "knownFor": "German mathematician and physicist (1777–1855)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Friedrich%20Gauss.jpg"
+  },
+  {
+    "id": "variste-galois",
+    "name": "Évariste Galois",
+    "lifespan": "1811-1832",
+    "category": "Mathematician",
+    "knownFor": "French mathematician (1811-1832)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/E.%20Galois%20Portrait%20No.2.jpg"
+  },
+  {
+    "id": "emmy-noether",
+    "name": "Emmy Noether",
+    "lifespan": "1882-1935",
+    "category": "Mathematician",
+    "knownFor": "German Jewish mathematician (1882–1935)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/EmmyNoether%20MFO3096.jpg"
+  },
+  {
+    "id": "sophie-germain",
+    "name": "Sophie Germain",
+    "lifespan": "1776-1831",
+    "category": "Mathematician",
+    "knownFor": "French mathematician, physicist, and philosopher (1776-1831)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Germain%20-%20%C5%92uvres%20philosophiques%2C%201896%20%28Illustration%20page%204%29.jpg"
+  },
+  {
+    "id": "ada-lovelace",
+    "name": "Ada Lovelace",
+    "lifespan": "1815-1852",
+    "category": "Mathematician",
+    "knownFor": "English mathematician (1815–1852)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ada%20Byron%20daguerreotype%20by%20Antoine%20Claudet%201843%20or%201850%20-%20cropped.png"
+  },
+  {
+    "id": "milie-du-ch-telet",
+    "name": "Émilie du Châtelet",
+    "lifespan": "1706-1749",
+    "category": "Mathematician",
+    "knownFor": "Era chiná physicist, and author (1706-1749)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Emilie%20Chatelet%20portrait%20by%20Latour.jpg"
+  },
+  {
+    "id": "radia-perlman",
+    "name": "Radia Perlman",
+    "lifespan": "1951-present",
+    "category": "Mathematician",
+    "knownFor": "American software designer and network engineer (born 1951)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Radia%20Perlman%202009.jpg"
+  },
+  {
+    "id": "leonhard-euler",
+    "name": "Leonhard Euler",
+    "lifespan": "1707-1783",
+    "category": "Mathematician",
+    "knownFor": "Swiss mathematician, physicist, and engineer (1707–1783)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonhard%20Euler.jpg"
+  },
+  {
+    "id": "avicenna",
+    "name": "Avicenna",
+    "lifespan": "0980-1037",
+    "category": "Mathematician",
+    "knownFor": "Persian polymath, physician and philosopher (c. 980–1037)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Pursina.jpg"
+  },
+  {
+    "id": "elmer-gethin-rees",
+    "name": "Elmer Gethin Rees",
+    "lifespan": "1941-2019",
+    "category": "Mathematician",
+    "knownFor": "Welsh Mathematician (1941–2019)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Elmer%20Rees.jpg"
+  },
+  {
+    "id": "edsger-w-dijkstra",
+    "name": "Edsger W. Dijkstra",
+    "lifespan": "1930-2002",
+    "category": "Mathematician",
+    "knownFor": "Dutch computer scientist (1930–2002)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Edsger%20Wybe%20Dijkstra.jpg"
+  },
+  {
+    "id": "archimedes",
+    "name": "Archimedes",
+    "lifespan": "-028--021",
+    "category": "Mathematician",
+    "knownFor": "Greek mathematician and physicist (c. 287 – c. 212 BC)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20un%20erudito%20%28%C2%BFArqu%C3%ADmedes%3F%29%2C%20por%20Domenico%20Fetti.jpg"
+  },
+  {
+    "id": "thomas-edison",
+    "name": "Thomas Edison",
+    "lifespan": "1847-1931",
+    "category": "Mathematician",
+    "knownFor": "American inventor and businessman (1847–1931)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Edison2.jpg"
+  },
+  {
+    "id": "euclid",
+    "name": "Euclid",
+    "lifespan": "-033--028",
+    "category": "Mathematician",
+    "knownFor": "Ancient Greek mathematician (fl. 300 BC)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Euklid2.jpg"
+  },
+  {
+    "id": "colin-maclaurin",
+    "name": "Colin MacLaurin",
+    "lifespan": "1698-1746",
+    "category": "Mathematician",
+    "knownFor": "Scottish mathematician (1698–1746)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Colin%20maclaurin.jpg"
+  },
+  {
+    "id": "fibonacci",
+    "name": "Fibonacci",
+    "lifespan": "1170-1240",
+    "category": "Mathematician",
+    "knownFor": "Italian mathematician (c.1170–c.1240/50)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Fibonacci5.jpg"
+  },
+  {
+    "id": "joseph-fourier",
+    "name": "Joseph Fourier",
+    "lifespan": "1768-1830",
+    "category": "Mathematician",
+    "knownFor": "French mathematician and physicist (1768 – 1830)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Fourier2.jpg"
+  },
+  {
+    "id": "augustin-louis-cauchy",
+    "name": "Augustin-Louis Cauchy",
+    "lifespan": "1789-1857",
+    "category": "Mathematician",
+    "knownFor": "French mathematician (1789–1857)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Augustin-Louis%20Cauchy%201901.jpg"
+  },
+  {
+    "id": "johannes-kepler",
+    "name": "Johannes Kepler",
+    "lifespan": "1572-1630",
+    "category": "Mathematician",
+    "knownFor": "German mathematician and astronomer (1571–1630)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Kepler%20by%20Hans%20von%20Aachen.jpg"
+  },
+  {
+    "id": "mu-ammad-ibn-musa-al-khwarizmi",
+    "name": "Muḥammad ibn Musa al-Khwarizmi",
+    "lifespan": "0780-0850",
+    "category": "Mathematician",
+    "knownFor": "9th-century Persian mathematician and astronomer",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Madrid%20-%20Ciudad%20Universitaria%2C%20Monumento%20a%20Muhammad%20al-Juarismi%20%28cropped%29.jpg"
+  },
+  {
+    "id": "james-watt",
+    "name": "James Watt",
+    "lifespan": "1736-1819",
+    "category": "Mathematician",
+    "knownFor": "British engineer (1736–1819)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Watt%20by%20Henry%20Howard.jpg"
+  },
+  {
+    "id": "gottfried-wilhelm-leibniz",
+    "name": "Gottfried Wilhelm Leibniz",
+    "lifespan": "1646-1716",
+    "category": "Mathematician",
+    "knownFor": "German mathematician and philosopher (1646–1716)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Christoph%20Bernhard%20Francke%20-%20Bildnis%20des%20Philosophen%20Leibniz%20%28ca.%201695%29.jpg"
+  },
+  {
+    "id": "james-clerk-maxwell",
+    "name": "James Clerk Maxwell",
+    "lifespan": "1831-1879",
+    "category": "Mathematician",
+    "knownFor": "Scottish physicist (1831–1879)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/James-Clerk-Maxwell-1831-1879.jpg"
+  },
+  {
+    "id": "erwin-schr-dinger",
+    "name": "Erwin Schrödinger",
+    "lifespan": "1887-1961",
+    "category": "Mathematician",
+    "knownFor": "Austrian physicist (1887–1961)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Erwin%20Schr%C3%B6dinger%20-%20Narodowe%20Archiwum%20Cyfrowe%20%281-E-939%29.jpg"
+  },
+  {
+    "id": "ren-descartes",
+    "name": "René Descartes",
+    "lifespan": "1596-1650",
+    "category": "Mathematician",
+    "knownFor": "French philosopher, mathematician, and scientist (1596–1650)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Hals%20-%20Portret%20van%20Ren%C3%A9%20Descartes.jpg"
+  },
+  {
+    "id": "immanuel-kant",
+    "name": "Immanuel Kant",
+    "lifespan": "1724-1804",
+    "category": "Mathematician",
+    "knownFor": "German philosopher (1724-1804)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Immanuel%20Kant%20-%20Gemaelde%202.jpg"
+  },
+  {
+    "id": "john-maynard-keynes",
+    "name": "John Maynard Keynes",
+    "lifespan": "1883-1946",
+    "category": "Mathematician",
+    "knownFor": "British economist (1883–1946)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Keynes%201933.jpg"
+  },
+  {
+    "id": "sima-qian",
+    "name": "Sima Qian",
+    "lifespan": "-014--008",
+    "category": "Mathematician",
+    "knownFor": "2nd-century BCE Chinese historian and writer",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Si%20maqian.jpg"
+  },
+  {
+    "id": "ludwig-wittgenstein",
+    "name": "Ludwig Wittgenstein",
+    "lifespan": "1889-1951",
+    "category": "Mathematician",
+    "knownFor": "Austrian philosopher and logician (1889–1951)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ludwig%20Wittgenstein.jpg"
+  },
+  {
+    "id": "pythagoras",
+    "name": "Pythagoras",
+    "lifespan": "-058--049",
+    "category": "Mathematician",
+    "knownFor": "Greek philosopher and mathematician (c. 570 – c. 495 BC)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Kapitolinischer%20Pythagoras.jpg"
+  },
+  {
+    "id": "vilfredo-pareto",
+    "name": "Vilfredo Pareto",
+    "lifespan": "1848-1923",
+    "category": "Mathematician",
+    "knownFor": "Italian economist and sociologist (1848-1923)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Vilfredo%20Pareto%201870s2.jpg"
+  },
+  {
+    "id": "pierre-bouguer",
+    "name": "Pierre Bouguer",
+    "lifespan": "1698-1758",
+    "category": "Mathematician",
+    "knownFor": "French astronomer and mathematician (1698-1758)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Bouguer%20-%20Jean-Baptiste%20Perronneau.jpg"
+  },
+  {
+    "id": "abd-al-rahman-al-sufi",
+    "name": "Abd al-Rahman al-Sufi",
+    "lifespan": "0903-0986",
+    "category": "Mathematician",
+    "knownFor": "Persian astronomer (903-986)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Al-Sufi%20depicted%20in%20Albrecht%20D%C3%BCrers%20%27The%20Northern%20Celestial%20Hemisphere%27%20%281515%29.jpg"
+  },
+  {
+    "id": "al-battani",
+    "name": "Al-Battani",
+    "lifespan": "0858-0930",
+    "category": "Mathematician",
+    "knownFor": "Islamic astronomer and mathematician (died 929)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Albategnius.jpeg"
+  },
+  {
+    "id": "ibn-al-haytham",
+    "name": "Ibn al-Haytham",
+    "lifespan": "0965-1039",
+    "category": "Mathematician",
+    "knownFor": "Persian physicist, mathematician and astronomer (c. 965 – c. 1040)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ibn%20Al-Haytham%20portrait.jpg"
+  },
+  {
+    "id": "aryabhata",
+    "name": "Aryabhata",
+    "lifespan": "0476-0550",
+    "category": "Mathematician",
+    "knownFor": "Indian mathematician-astronomer",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/2064%20aryabhata-crp.jpg"
+  },
+  {
+    "id": "avempace",
+    "name": "Avempace",
+    "lifespan": "1095-1139",
+    "category": "Mathematician",
+    "knownFor": "Arab Andalusian polymath (c. 1085 – 1138)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ibn%20B%C4%81jja%2C%20Sayr%20mulhimah%20min%20al-Sharq%20wa-al-Gharb.png"
+  },
+  {
+    "id": "abu-ma-shar-al-balkhi",
+    "name": "Abu Ma'shar al-Balkhi",
+    "lifespan": "0787-0886",
+    "category": "Mathematician",
+    "knownFor": "Persian astrologer and philosopher (787–886)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Albumasar%20%28Nikolaikirche%20Stralsund%29.jpg"
+  },
+  {
+    "id": "jean-bartik",
+    "name": "Jean Bartik",
+    "lifespan": "1924-2011",
+    "category": "Mathematician",
+    "knownFor": "American ENIAC computer programmer (1924–2011)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Two%20women%20operating%20ENIAC%20%28full%20resolution%29.jpg"
+  },
+  {
+    "id": "jennifer-tour-chayes",
+    "name": "Jennifer Tour Chayes",
+    "lifespan": "1956-present",
+    "category": "Mathematician",
+    "knownFor": "American computer scientist and mathematician (born 1956)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jennifer%20Tour%20Chayes%20vid%2002.png"
+  },
+  {
+    "id": "annie-easley",
+    "name": "Annie Easley",
+    "lifespan": "1932-2011",
+    "category": "Mathematician",
+    "knownFor": "American mathematician and rocket scientist",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Annie%20Easley.jpg"
+  },
+  {
+    "id": "charlotte-froese-fischer",
+    "name": "Charlotte Froese Fischer",
+    "lifespan": "1929-2024",
+    "category": "Mathematician",
+    "knownFor": "Canadian-American applied mathematician and computer scientist",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/EDSAC%20%2816%29.jpg"
+  },
+  {
+    "id": "shafrira-goldwasser",
+    "name": "Shafrira Goldwasser",
+    "lifespan": "1958-present",
+    "category": "Mathematician",
+    "knownFor": "American computer scientist",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Shafi%20Goldwasser.JPG"
+  },
+  {
+    "id": "wendy-hall",
+    "name": "Wendy Hall",
+    "lifespan": "1952-present",
+    "category": "Mathematician",
+    "knownFor": "British computer scientist (1952-)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Wendy%20hall%202011.jpg"
+  },
+  {
+    "id": "margaret-hamilton",
+    "name": "Margaret Hamilton",
+    "lifespan": "1936-present",
+    "category": "Mathematician",
+    "knownFor": "American NASA scientist and mathematician",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Margaret%20Hamilton%201995.jpg"
+  },
+  {
+    "id": "betty-holberton",
+    "name": "Betty Holberton",
+    "lifespan": "1917-2001",
+    "category": "Mathematician",
+    "knownFor": "American computer programmer (1917–2001)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Betty%20Holberton.jpg"
+  },
+  {
+    "id": "grace-hopper",
+    "name": "Grace Hopper",
+    "lifespan": "1906-1992",
+    "category": "Mathematician",
+    "knownFor": "American computer scientist and United States Navy officer (1906–1992)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Commodore%20Grace%20M.%20Hopper%2C%20USN%20%28covered%29.jpg"
+  },
+  {
+    "id": "katherine-johnson",
+    "name": "Katherine Johnson",
+    "lifespan": "1918-2020",
+    "category": "Mathematician",
+    "knownFor": "African-American mathematician",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Katherine%20Johnson%201983.jpg"
+  },
+  {
+    "id": "maria-klawe",
+    "name": "Maria Klawe",
+    "lifespan": "1951-present",
+    "category": "Mathematician",
+    "knownFor": "Canadian-American computer scientist",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Klawe%202015.jpg"
+  },
+  {
+    "id": "mary-kenneth-keller",
+    "name": "Mary Kenneth Keller",
+    "lifespan": "1913-1985",
+    "category": "Mathematician",
+    "knownFor": "First American woman to receive a PhD in computer science (1913-1985); simultaneously with Irving Tang first American to receive PhD in computer science, nun",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sister%20Mary%20Kenneth%20Keller%20at%20PhD%20graduation%20ceremony%20%28cropped%29.jpg"
+  },
+  {
+    "id": "susan-landau",
+    "name": "Susan Landau",
+    "lifespan": "1954-present",
+    "category": "Mathematician",
+    "knownFor": "American mathematician and engineer",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Landau%20%28cropped%29.jpg"
+  },
+  {
+    "id": "al-biruni",
+    "name": "Al-Biruni",
+    "lifespan": "0973-1048",
+    "category": "Mathematician",
+    "knownFor": "11th-century Persian scholar and polymath (973–1048)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Al-Biruni%20Portrait.jpg"
+  },
+  {
+    "id": "william-rowan-hamilton",
+    "name": "William Rowan Hamilton",
+    "lifespan": "1805-1865",
+    "category": "Mathematician",
+    "knownFor": "Irish mathematician and astronomer (1805-1865)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Rowan%20Hamilton%20painting.jpg"
+  },
+  {
+    "id": "maximilian-hell",
+    "name": "Maximilian Hell",
+    "lifespan": "1720-1792",
+    "category": "Mathematician",
+    "knownFor": "Slovak-Hungarian Jesuit, astronomer, mathematician, and physicist (1720–1792)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Hell%20Miksa.jpg"
+  },
+  {
+    "id": "hypatia",
+    "name": "Hypatia",
+    "lifespan": "0360-0415",
+    "category": "Mathematician",
+    "knownFor": "Greek Neoplatonist philosopher",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Hipatia67.jpg"
+  },
+  {
+    "id": "auguste-comte",
+    "name": "Auguste Comte",
+    "lifespan": "1798-1857",
+    "category": "Mathematician",
+    "knownFor": "French philosopher, mathematician and sociologist (1798–1857)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20dAuguste%20Comte%20%28maison%20dA.%20Comte%2C%20Paris%29%20%282424895050%29.jpg"
+  },
+  {
+    "id": "reinhard-selten",
+    "name": "Reinhard Selten",
+    "lifespan": "1930-2016",
+    "category": "Mathematician",
+    "knownFor": "German economist (1930-2016)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Reinhard%20Selten2.jpg"
+  },
+  {
+    "id": "helmar-frank",
+    "name": "Helmar Frank",
+    "lifespan": "1933-2013",
+    "category": "Mathematician",
+    "knownFor": "German mathematician and pedagogist (1933–2013)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Helmar.jpg"
+  },
+  {
+    "id": "georges-lema-tre",
+    "name": "Georges Lemaître",
+    "lifespan": "1894-1966",
+    "category": "Mathematician",
+    "knownFor": "Belgian astrophysicist and Catholic priest (1894–1966)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Lemaitre.jpg"
+  },
+  {
+    "id": "ren-de-saussure",
+    "name": "René de Saussure",
+    "lifespan": "1868-1943",
+    "category": "Mathematician",
+    "knownFor": "Swiss mathematician and Esperantist (1868-1943)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20de%20Saussure.jpg"
+  },
+  {
+    "id": "l-on-walras",
+    "name": "Léon Walras",
+    "lifespan": "1834-1910",
+    "category": "Mathematician",
+    "knownFor": "French mathematical economist (*1834 – †1910)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A9on%20Walras.jpg"
+  },
+  {
+    "id": "thomas-robert-malthus",
+    "name": "Thomas Robert Malthus",
+    "lifespan": "1766-1834",
+    "category": "Mathematician",
+    "knownFor": "British political economist (1766–1834)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Robert%20Malthus%20Wellcome%20L0069037%20-crop.jpg"
+  },
+  {
+    "id": "thomas-robert-malthus-2",
+    "name": "Thomas Robert Malthus",
+    "lifespan": "1766-1834",
+    "category": "Mathematician",
+    "knownFor": "British political economist (1766–1834)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Robert%20Malthus%20Wellcome%20L0069037%20-crop.jpg"
+  },
+  {
+    "id": "caryn-navy",
+    "name": "Caryn Navy",
+    "lifespan": "1953-present",
+    "category": "Mathematician",
+    "knownFor": "American mathematician and computer scientist",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Caryn%20Navy%20%28cropped%29.jpg"
+  },
+  {
+    "id": "jean-e-sammet",
+    "name": "Jean E. Sammet",
+    "lifespan": "1928-2017",
+    "category": "Mathematician",
+    "knownFor": "American computer scientist (1928-2017)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sammet%20UMD%201979.jpg"
+  },
+  {
+    "id": "diane-souvaine",
+    "name": "Diane Souvaine",
+    "lifespan": "Unknown",
+    "category": "Mathematician",
+    "knownFor": "Computer scientist",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Diane%20Souvaine.jpg"
+  },
+  {
+    "id": "ileana-streinu",
+    "name": "Ileana Streinu",
+    "lifespan": "2000-present",
+    "category": "Mathematician",
+    "knownFor": "Romanian-American computer scientist and mathematician",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ileana%20Streinu%20in%20Limerick.jpg"
+  },
+  {
+    "id": "john-frederick-william-herschel",
+    "name": "John Frederick William Herschel",
+    "lifespan": "1792-1871",
+    "category": "Mathematician",
+    "knownFor": "English polymath, mathematician, astronomer, chemist, inventor and photographer (*1792 – †1871)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Herschel%20by%20Jula%20Margaret%20Cameron%2C%20Abril%201867.jpg"
+  },
+  {
+    "id": "giovanni-domenico-cassini",
+    "name": "Giovanni Domenico Cassini",
+    "lifespan": "1625-1712",
+    "category": "Mathematician",
+    "knownFor": "Italian/French mathematician, astronomer, engineer, and astrologer (*1625 – †1712)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Domenico%20Cassini.jpg"
+  },
+  {
+    "id": "giuseppe-piazzi",
+    "name": "Giuseppe Piazzi",
+    "lifespan": "1746-1826",
+    "category": "Mathematician",
+    "knownFor": "Italian Catholic priest, mathematician and astronomer (1746–1826)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Costanzo%20Angelini%2C%20L%27astronomo%20Piazzi%201825%20ca.jpg"
+  },
+  {
+    "id": "giovanni-schiaparelli",
+    "name": "Giovanni Schiaparelli",
+    "lifespan": "1835-1910",
+    "category": "Mathematician",
+    "knownFor": "Italian astronomer and science historian (1835-1910)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Schiaparelli%20Giovanni.jpg"
+  },
+  {
+    "id": "va-tardos",
+    "name": "Éva Tardos",
+    "lifespan": "1957-present",
+    "category": "Mathematician",
+    "knownFor": "Hungarian mathematician",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Eva%20Tardos%20%282007%29.jpg"
+  },
+  {
+    "id": "mich-le-vergne",
+    "name": "Michèle Vergne",
+    "lifespan": "1943-present",
+    "category": "Mathematician",
+    "knownFor": "French mathematician",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Michele%20Vergne.jpg"
+  },
+  {
+    "id": "tandy-warnow",
+    "name": "Tandy Warnow",
+    "lifespan": "1955-present",
+    "category": "Mathematician",
+    "knownFor": "American computer scientist",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Tandy%20Warnow%20at%20ISMB%202018.jpg"
+  },
+  {
+    "id": "sue-whitesides",
+    "name": "Sue Whitesides",
+    "lifespan": "1953-present",
+    "category": "Mathematician",
+    "knownFor": "Canadian mathematician and computer scientist",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sue%20Whitesides%20WTPGD.jpg"
+  },
+  {
+    "id": "sophie-wilson",
+    "name": "Sophie Wilson",
+    "lifespan": "1957-present",
+    "category": "Mathematician",
+    "knownFor": "British computer scientist (born 1957)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Sophie%20Wilson.jpg"
+  },
+  {
+    "id": "margaret-h-wright",
+    "name": "Margaret H. Wright",
+    "lifespan": "1944-present",
+    "category": "Mathematician",
+    "knownFor": "American computer scientist and academic",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/%D7%9E%D7%A8%D7%92%D7%A8%D7%98%20%D7%94.%20%D7%A8%D7%99%D7%99%D7%98.jpg"
+  },
+  {
+    "id": "mary-lee-woods",
+    "name": "Mary Lee Woods",
+    "lifespan": "1924-2017",
+    "category": "Mathematician",
+    "knownFor": "British mathematician and computer programmer (1924-2017)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Lee%20Berners-Lee%20%28n%C3%A9e%20Woods%29.png"
+  },
+  {
+    "id": "carl-hindenburg",
+    "name": "Carl Hindenburg",
+    "lifespan": "1741-1808",
+    "category": "Mathematician",
+    "knownFor": "German mathematician (1741-1808)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Hindenburg%2C%20Carl%20Friedrich%20%E2%80%93%20Infinitinomii%20dignitatum%20exponentis%20indeterminati%20historia%20leges%20ac%20formulae%20editio%20pluribus%20locis%20aucta%20et%20passim%20emendata%2C%201779%20%E2%80%93%20BEIC%201471189.jpg"
+  },
+  {
+    "id": "johann-andreas-segner",
+    "name": "Johann Andreas Segner",
+    "lifespan": "1704-1777",
+    "category": "Mathematician",
+    "knownFor": "Hungarian mathematician (1704-1777)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Andreas%20von%20Segner.jpg"
+  },
+  {
+    "id": "gerhard-frey",
+    "name": "Gerhard Frey",
+    "lifespan": "1944-present",
+    "category": "Mathematician",
+    "knownFor": "German mathematician",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerhard%20Frey%20%28matematico%29%20%28cropped%29.jpg"
+  },
+  {
+    "id": "christian-samuel-weiss",
+    "name": "Christian Samuel Weiss",
+    "lifespan": "1780-1856",
+    "category": "Mathematician",
+    "knownFor": "German mineralogist (1780-1856)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Weiss-christian-samuel-1780-1856--bildnisse-beruehmter-mitglieder-der-deutschen-akademie-der-wissenschaften-zu-berlin-berlin-akademie-verlag-1950-abb024.jpg"
+  },
+  {
+    "id": "julius-weisbach",
+    "name": "Julius Weisbach",
+    "lifespan": "1806-1871",
+    "category": "Mathematician",
+    "knownFor": "German mathematician and engineer (1806–1871)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20L%20Weisbach.jpg"
+  },
+  {
+    "id": "jakob-bartsch",
+    "name": "Jakob Bartsch",
+    "lifespan": "1600-1633",
+    "category": "Mathematician",
+    "knownFor": "German astronomer (1600-1633)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jakob%20Bartsch%20%28Festschr.Reg.%201930%29.jpg"
+  },
+  {
+    "id": "hans-reissner",
+    "name": "Hans Reissner",
+    "lifespan": "1874-1967",
+    "category": "Mathematician",
+    "knownFor": "German engineer and mathematician (1874–1967)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Jacob%20and%20Josefine%20Reissner.jpg"
+  },
+  {
+    "id": "moritz-wilhelm-drobisch",
+    "name": "Moritz Wilhelm Drobisch",
+    "lifespan": "1802-1896",
+    "category": "Mathematician",
+    "knownFor": "German mathematician, philosopher and psychologist (1802-1896)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Moritz%20Wilhelm%20Drobisch.jpg"
+  },
+  {
+    "id": "martin-kneser",
+    "name": "Martin Kneser",
+    "lifespan": "1928-2004",
+    "category": "Mathematician",
+    "knownFor": "German mathematician (1928-2004)",
+    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Kneser.jpeg"
+  }
+]
